@@ -1,3 +1,5 @@
+![sample](https://user-images.githubusercontent.com/30647434/86212551-3f137000-bbb3-11ea-9010-9486ff6ff499.jpeg)
+
 # 概要
 M5StickC + Co2 HATを使用してCO2濃度の表示をしているのですが、Mac上でも数値を確認したいと思い作りました。  
 ambient dataに送っているデータを取得し、メニューバーに表示しています。  
