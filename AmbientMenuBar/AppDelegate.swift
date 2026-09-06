@@ -14,7 +14,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSUserNotificationCenterDele
     @IBOutlet weak var menu: NSMenu!
     let statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength)
     
-    let apiUrl = "https://ambidata.io/api/v2/channels/XXXXX/data?readKey=XXXXXXXXXXX&n=1"
+    let apiUrl = "https://ambidata.io/api/v2/channels/28305/data?readKey=927449669523acd7&n=1"
     let dataFieldId = "d1"
     let highThreshold = 1000
     let lowThreshold = 800
